@@ -1,0 +1,16 @@
+=============================================
+  PC16 Week 9: OOP Basics & Collections Test 
+=============================================
+
+--- Displaying Inventory Collection (List) ---
+Hardware Item: AMD Ryzen 5 5600 | Encapsulated Price: PHP 6500.00
+Hardware Item: MSI B450M-A PRO MAX II | Encapsulated Price: PHP 4200.00
+Hardware Item: Kingston Fury DDR4 16GB | Encapsulated Price: PHP 2400.00
+
+--- Testing Encapsulation Update ---
+Old Price for Ryzen 5 5600: PHP 6500.00
+Updated Price for Ryzen 5 5600: PHP 6200.00
+
+=============================================
+            OOP Execution Complete           
+=============================================
